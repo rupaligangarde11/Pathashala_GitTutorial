@@ -3,7 +3,7 @@ Prachi
 Thoughtworks
 Pathashala
 TW University
-Pune Office
+bangalore Office
 
 this is for conflict purpose.
 this is done on spike branch
